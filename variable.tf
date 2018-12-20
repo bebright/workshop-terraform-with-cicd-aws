@@ -1,6 +1,6 @@
 /*
   Define Global variable
-  example: Profile, Region, Terraform, Environment ..
+  example: Profile, Region, Terraform, Environment 
 */
 variable "env" {
   description = "terraform workspace environment."
